@@ -53,7 +53,7 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=aditi55&theme=onedark)
+![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=aditi55&theme=onedark)
 <br>
 <br />
 
