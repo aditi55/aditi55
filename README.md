@@ -28,7 +28,7 @@
 
 ## 📚 Projects
 
-- [Java Springboot App + Docker + Kubernetes + AWS + Monitoring](https://github.com/aditi55/Microservices)
+- [Java Springboot App + Docker + AWS + Monitoring](https://github.com/aditi55/Microservices)
 - [Front-end Travel Website using HTML + CSS +  ReactJs + NodeJs](https://github.com/aditi55/Travel-Website)
 - [DevSecOps CI/CD Pipeline](https://github.com/aditi55/DevOps)
   
