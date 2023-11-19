@@ -20,7 +20,7 @@
 - JavaScript (React, Node.js)
 - HTML, CSS
 - DevOps
-- ...
+- AWS
 
 <br>
 
