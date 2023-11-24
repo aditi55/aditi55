@@ -2,35 +2,26 @@
 
 
 - 🔭 I am honing my Dev and DevOps skills.
-- 🌱 I am currently learning React 
-- 👯 I’m looking to collaborate in web dev projects
-- 💬 Ask me About Web development, web Technologies and DevOps.
+- 💬 Ask me About Web development and DevOps.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditisv28@gmail.com)](mailto:aditisv28@gmail.com) 
-
-
-<br>
-
-<br />
 
 ## 🔧 Skills
 
+- DevOps
+- AWS
 - Java
 - Spring SpringBoot
 - Web Development
 - JavaScript (React, Node.js)
 - HTML, CSS
-- DevOps
-- AWS
-
-<br>
-
-<br />
-
-## 📚 Projects
+  
+##  📚 Projects
 
 - [Java Springboot App + Docker + AWS + Monitoring](https://github.com/aditi55/Microservices)
 - [Front-end Travel Website using HTML + CSS +  ReactJs + NodeJs](https://github.com/aditi55/Travel-Website)
+- [Terraform IaC for AWS Infrastructure Provisioning](https://github.com/aditi55/Terraform)
 - [DevSecOps CI/CD Pipeline](https://github.com/aditi55/DevOps)
+  
   
 
 ### Languages and Tools:
