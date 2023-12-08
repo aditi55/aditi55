@@ -21,6 +21,7 @@
 - [Front-end Travel Website using HTML + CSS +  ReactJs + NodeJs](https://github.com/aditi55/Travel-Website)
 - [Terraform IaC for AWS Infrastructure Provisioning](https://github.com/aditi55/Terraform)
 - [DevSecOps CI/CD Pipeline](https://github.com/aditi55/DevOps)
+- [Supermarket App](https://github.com/aditi55/Supermarket)
   
   
 
