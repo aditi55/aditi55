@@ -19,6 +19,7 @@
 
 - [Java Springboot App + Docker + AWS + Monitoring](https://github.com/aditi55/Microservices)
 - [Front-end Travel Website using HTML + CSS +  ReactJs + NodeJs](https://github.com/aditi55/Travel-Website)
+- [Full Stack Java+React](https://github.com/aditi55/EmployeeManagement)
 - [Terraform IaC for AWS Infrastructure Provisioning](https://github.com/aditi55/Terraform)
 - [DevSecOps CI/CD Pipeline](https://github.com/aditi55/DevOps)
 - [Supermarket App](https://github.com/aditi55/Supermarket)
